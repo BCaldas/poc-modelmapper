@@ -11,7 +11,7 @@ Pequena POC para demonstrar o uso da bilbioteca Java ModelMapper para mapeamento
 
 ## Bibliotecas de Terceiros:
 
-- ModelMapper
+- ModelMapper (http://modelmapper.org/)
 
 ## Instalação
 
